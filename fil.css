@@ -1,0 +1,63 @@
+body{
+    background: #000 url(img/lox4.jpg) no-repeat;
+    background-size:110% ;
+}
+
+.zagolovok{
+    margin-top:-90px;
+    margin-left: 107px;
+    
+    
+}
+.d1 {
+    background-color: white;
+    width: 110%;
+    height: 120px;
+    margin-left: -10px;
+    margin-right: 0px;
+    margin-top: -13px;
+}
+.img1 {
+    width: 8%;
+    margin-top: -6.5%;
+    margin-left: -1%;
+}
+.d3{
+    font-size: 45px;
+    margin-top: 20%;
+    margin-left: 35%;
+}
+.nav_link{
+    text-decoration: none;
+    font-size:25px;
+    margin-left: 4%;
+    color:black
+
+}
+.nav {
+    margin-left: 25%;
+    margin-top: -4.8%;
+}
+.nav_link{
+    display: inline-block;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    text-decoration: none;
+    font-size:25px;
+    margin-left: 4%;
+    transition: background .1s
+    linear,color .1s linear;
+    color:black
+    
+    
+
+}
+.nav_link:hover{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255)
+}
+
+.intro{
+    margin-top: 200px;
+    margin-left: 500px;
+}
